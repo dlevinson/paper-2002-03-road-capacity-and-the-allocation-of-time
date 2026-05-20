@@ -6,7 +6,7 @@ Levinson, David M., and Seshasai Kanchi. (2002). Road Capacity and the Allocatio
 
 ## Package Status
 
-Status: `READY-TO-UPLOAD/PUBLIC`
+Status: `UPLOADED`
 
 The paper states that the analysis used the 1990/91 and 1995/96 Nationwide Personal Transportation Surveys and Federal Highway Administration Highway Statistics data. Those source datasets are public and are not duplicated here. The local archive did contain paper-specific Stata scripts and small workbook outputs, so the earlier `NOTHING-TO-DO` classification was stale.
 
@@ -32,7 +32,7 @@ The source folder also contains drafts, Word documents, presentations, logs, res
 
 Generated: 2026-05-21 06:40:20 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
