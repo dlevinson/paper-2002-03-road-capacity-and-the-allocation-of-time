@@ -1,0 +1,1 @@
+use ":Macintosh HD:Desktop Folder:paper:sol90.dta"collapse (mean) act1 act2 act3 act4 tt1 tt2 tt3 tt4 tt90, by (stateid)

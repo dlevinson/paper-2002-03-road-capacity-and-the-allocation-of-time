@@ -1,0 +1,7 @@
+source_path,decision,package_location,reason
+/Users/dlev2617/Documents/Data/~Nexus_Data/RoadCapacityInducedDemand/paper/*.do,included,code/original/stata,"Paper-specific Stata analysis scripts matching the paper methods: NPTS/FHWA processing, time-use variables, SURE and regression models."
+/Users/dlev2617/Documents/Data/~Nexus_Data/RoadCapacityInducedDemand/paper/*.xls,included_selected,data/derived_workbooks/original and data/derived_workbooks/modernized,Small paper-folder spreadsheet outputs/tables; originals retained and modernized to xlsx.
+/Users/dlev2617/Documents/Data/~Nexus_Data/RoadCapacityInducedDemand/paper/**/*.dta,excluded,,Raw/intermediate Stata datasets are derivative copies of public NPTS/FHWA/Highway Statistics inputs and are not necessary for a public package boundary at this pass.
+/Users/dlev2617/Documents/Data/~Nexus_Data/RoadCapacityInducedDemand/paper/**/*.log,excluded,,"Run logs are intermediate outputs, not source code or required data."
+/Users/dlev2617/Documents/Data/~Nexus_Data/RoadCapacityInducedDemand/paper/**/*.doc and presentation folders,excluded,,"Drafts, papers, presentations, resumes, and administrative material are outside the paper/data/code archive boundary."
+1990/1995 NPTS and FHWA Highway Statistics public source data,link_or_cite_public_source,README.md,Paper states these as the source data; public-source pointers are sufficient and local bulk source copies were not duplicated.

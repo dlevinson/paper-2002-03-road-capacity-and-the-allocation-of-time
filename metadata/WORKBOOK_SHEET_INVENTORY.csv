@@ -1,0 +1,63 @@
+workbook,sheet,max_row,max_column,nonempty_rows
+TT95.xlsx,Sheet1,24,15,13
+TT95.xlsx,Sheet2,1,1,0
+TT95.xlsx,Sheet3,1,1,0
+TT9590.xlsx,Sheet1,119,34,50
+TT9590.xlsx,Sheet2,1,1,0
+TT9590.xlsx,Sheet3,1,1,0
+copypatterns.xlsx,Patterns,1,1,0
+copypatterns.xlsx,Travel by Pattern,1,1,0
+copypatterns.xlsx,Time at Home,1,1,0
+copypatterns.xlsx,Sheet1,109,21,104
+copypatterns.xlsx,Sheet2,1,1,0
+copypatterns.xlsx,Sheet3,1,1,0
+elas90.xlsx,workers,83,10,81
+elas90.xlsx,non-workers,83,9,81
+elas90.xlsx,Sheet3,1,1,0
+life.xlsx,Sheet1,16,2,11
+life.xlsx,Sheet2,1,1,0
+life.xlsx,Sheet3,1,1,0
+non-workcopypatterns.xlsx,Patterns,1,1,0
+non-workcopypatterns.xlsx,Travel by Pattern,1,1,0
+non-workcopypatterns.xlsx,Time at Home,1,1,0
+non-workcopypatterns.xlsx,freq,1,1,0
+non-workcopypatterns.xlsx,travelnw,1,1,0
+non-workcopypatterns.xlsx,timeathomenw,1,1,0
+non-workcopypatterns.xlsx,Sheet1,79,21,74
+non-workcopypatterns.xlsx,Sheet2,1,1,0
+non-workcopypatterns.xlsx,Sheet3,1,1,0
+othercopypatterns.xlsx,Patterns,1,1,0
+othercopypatterns.xlsx,Travel by Pattern,1,1,0
+othercopypatterns.xlsx,Time at Home,1,1,0
+othercopypatterns.xlsx,timeatotherw,1,1,0
+othercopypatterns.xlsx,Sheet1,95,21,90
+othercopypatterns.xlsx,Sheet2,1,1,0
+othercopypatterns.xlsx,Sheet3,1,1,0
+othernwcopypatterns.xlsx,Patterns,1,1,0
+othernwcopypatterns.xlsx,Travel by Pattern,1,1,0
+othernwcopypatterns.xlsx,Time at Home,1,1,0
+othernwcopypatterns.xlsx,freq,1,1,0
+othernwcopypatterns.xlsx,travelnw,1,1,0
+othernwcopypatterns.xlsx,timeathomenw,1,1,0
+othernwcopypatterns.xlsx,othernw,1,1,0
+othernwcopypatterns.xlsx,Sheet1,75,21,70
+othernwcopypatterns.xlsx,Sheet2,1,1,0
+othernwcopypatterns.xlsx,Sheet3,1,1,0
+shopcopypatterns.xlsx,Patterns,1,1,0
+shopcopypatterns.xlsx,Travel by Pattern,1,1,0
+shopcopypatterns.xlsx,Time at Home,1,1,0
+shopcopypatterns.xlsx,timeatshopw,1,1,0
+shopcopypatterns.xlsx,Sheet1,99,21,94
+shopcopypatterns.xlsx,Sheet2,1,1,0
+shopcopypatterns.xlsx,Sheet3,1,1,0
+shopnwcopypatterns.xlsx,Patterns,1,1,0
+shopnwcopypatterns.xlsx,Travel by Pattern,1,1,0
+shopnwcopypatterns.xlsx,Time at Home,1,1,0
+shopnwcopypatterns.xlsx,freq,1,1,0
+shopnwcopypatterns.xlsx,travelnw,1,1,0
+shopnwcopypatterns.xlsx,timeathomenw,1,1,0
+shopnwcopypatterns.xlsx,shopnw,1,1,0
+shopnwcopypatterns.xlsx,Sheet1,73,21,68
+shopnwcopypatterns.xlsx,Sheet2,1,1,0
+shopnwcopypatterns.xlsx,Sheet3,1,1,0
+table_3.xlsx,table_3,243,3,220

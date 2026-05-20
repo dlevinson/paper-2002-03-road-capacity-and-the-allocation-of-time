@@ -1,0 +1,1 @@
+set matsize 800use ":Macintosh HD:Desktop Folder:paper:nonworkcong.dta"collapse tt1 tt2 tt3 tt4 act1 act2 act3 act4 tthat1 tthat2 tthat3 tthat4 athat1 athat2 athat3 athat4, by (hhmsa)
