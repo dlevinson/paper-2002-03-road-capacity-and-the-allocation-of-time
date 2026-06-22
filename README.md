@@ -1,5 +1,9 @@
 # Road Capacity and the Allocation of Time
 
+## Contribution
+
+This paper reframes induced demand by asking how added highway capacity changes people's allocation of time rather than only vehicle travel. Comparing national travel surveys, it finds stable total travel time but meaningful shifts among work, commuting, shopping, home, and other activities, with distinct responses for workers and nonworkers.
+
 This package stages the paper-specific code and small derived workbook outputs located for:
 
 Levinson, David M., and Seshasai Kanchi. (2002). Road Capacity and the Allocation of Time. Journal of Transportation and Statistics, 5(1), 19-33.
