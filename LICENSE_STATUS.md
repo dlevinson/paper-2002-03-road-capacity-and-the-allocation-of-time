@@ -1,13 +1,9 @@
-# License Status: Road Capacity and the Allocation of Time
+# License Status
 
-Generated: 2026-05-21 06:40:20 AEST
+Updated: 2026-06-22 AEST
 
-Recorded license/access note from the verified audit row: Public source data; local authored code/workbooks need normal repository license selection by David Levinson before upload.
+An explicit mixed license is recorded in `LICENSE.md`:
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
-
-## Practical Rule
-
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+- author-created Stata code: MIT;
+- author-created derived workbooks and documentation: CC BY 4.0;
+- the article PDF and NPTS/FHWA source data: original terms.
